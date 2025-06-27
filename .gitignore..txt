@@ -1,5 +1,6 @@
 
 echo .vs/ >> .gitignore
+
 # Ignore Visual Studio files
 .vs/
 *.user
@@ -19,4 +20,60 @@ obj/
 
 # Ignore package folders
 packages/
+
+######################################
+# Visual Studio
+######################################
+
+.vs/
+*.user
+*.suo
+
+######################################
+# Build output
+######################################
+
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+
+######################################
+# NuGet Packages
+######################################
+
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+######################################
+# ASP.NET stuff
+######################################
+
+# User-specific files
+*.dbmdl
+*.dbproj.schemaview
+
+# Entity Framework
+*.jfm
+Migrations/
+
+######################################
+# Rider / VS Code
+######################################
+
+.idea/
+.vscode/
+
+######################################
+# Others
+######################################
+
+*.log
+*.tmp
+*.DS_Store
+*.sln.docstates
+
 .vs/
