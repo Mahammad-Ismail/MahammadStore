@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MahammadStore.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f0e93f30afa5d64d3ce11054a34bbb6af84f983")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b9267a00f8aa4039a93a115f5d222d8b0630c8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MahammadStore.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MahammadStore.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
