@@ -1,1 +1,22 @@
+
+echo .vs/ >> .gitignore
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore compiled files
+*.dll
+*.exe
+
+# Ignore package folders
+packages/
 .vs/
